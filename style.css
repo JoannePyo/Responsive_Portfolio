@@ -318,6 +318,8 @@ section {
 /* EXPERIENCE SECTION */
 #experience {
   position: relative;
+  padding-top: 4vh;
+  height: 88vh;
 }
 
 .experience-sub-title {
